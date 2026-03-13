@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# IA CONSULT - AI Automation & Strategy Agency
 
-## Getting Started
+Welcome to the official repository for **IA CONSULT**, a high-end platform designed to help businesses navigate the world of Artificial Intelligence. This project blends a premium user interface with interactive tools to turn technological curiosity into tangible business growth.
 
-First, run the development server:
+## Project Overview
+This isn't just a landing page; it's a strategic touchpoint featuring:
+* **Interactive AI Audit:** A smart quiz to evaluate a client's digital maturity in real-time.
+* **Premium Interface:** A sleek, high-performance Dark Mode design inspired by top-tier SaaS platforms.
+* **Optimized Conversion:** Integrated contact modals to capture leads effortlessly without page reloads.
+* **Mobile-First Experience:** Fully responsive, smooth, and lightning-fast across all devices.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## The Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I chose a modern, scalable stack focused on speed, interactivity, and clean code:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* **Next.js 14+ (App Router):** The industry-leading React framework for optimized SEO and server-side performance.
+* **TypeScript:** Ensuring robust, type-safe code that is easy to scale and maintain.
+* **Tailwind CSS:** For a custom, utility-first design that keeps the bundle size small and the UI sharp.
+* **Framer Motion:** The gold standard for fluid web animations and interactive transitions.
+* **Lucide React:** A beautiful, lightweight icon library for intuitive navigation.
+* **Vercel:** Automated CI/CD deployment, ensuring the site stays updated with every push.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Local Setup & Installation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+To explore the codebase or run the project locally on your machine:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/YOUR_USERNAME/ai-consulting-premium.git](https://github.com/YOUR_USERNAME/ai-consulting-premium.git)
+    ```
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+3.  **Run the development server:**
+    ```bash
+    npm run dev
+    ```
+4.  **Open your browser:** Head over to `http://localhost:3000`.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Our Vision
+This project was built on a simple premise: **AI should be accessible.** Behind every line of code is a commitment to simplifying complex workflows and putting the power of automation back into human hands.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+*Crafted with passion in 2026.*
