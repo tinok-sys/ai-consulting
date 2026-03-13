@@ -1,4 +1,4 @@
-# IA CONSULT - AI Automation & Strategy Agency
+# IA CONSULT - AI Automation & Strategy Agency (https://ai-consulting-livid.vercel.app/#contact)
 
 Welcome to the official repository for **IA CONSULT**, a high-end platform designed to help businesses navigate the world of Artificial Intelligence. This project blends a premium user interface with interactive tools to turn technological curiosity into tangible business growth.
 
